@@ -1,7 +1,9 @@
 import React from "react";
+import ReactDOM from "react-dom/client";
+import Home from "./pages/Home.jsx";
 
 const App = () => {
-  return <div>Hello World</div>;
+  return <Home />;
 };
 
 export default App;
