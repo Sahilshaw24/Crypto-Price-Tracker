@@ -1,8 +1,3 @@
 jkzcbjfhjsdhbj
 jhfhjdsfvjlddddd
 dfjvdhbbjbj
-djvbdjkfdvkudjujvduj
-gsjsbjufvsdjbfvsdujfv
-fydyfyhdfhydfhudhggdhdhdghgdh
-ghjfhjgfhjgfhjgfjhgfhjgfhg
-fjdjbvdfjbkfkjfkjfvbfv
